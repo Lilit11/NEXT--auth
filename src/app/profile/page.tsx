@@ -1,0 +1,21 @@
+import { redirect } from "next/navigation"
+import { verifyAuth } from "../lib/auth"
+import { getUserById } from "../lib/api"
+import { use } from "react"
+import { handleLogOut } from "../lib/actions"
+
+export default  async function Page(){
+    const result = await verifyAuth()
+    if(!result.user){
+        redirect('/login')
+    }
+
+    const user = getUserById(result.user.id)
+    
+    return <div className="p-6">
+    <h1 className="is-size-1">{user.name} {user.surname}</h1>
+    <form action={handleLogOut}>
+        <button className="button is-danger"> logout</button>
+    </form>
+    </div>
+}

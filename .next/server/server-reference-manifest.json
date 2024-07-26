@@ -1,0 +1,130 @@
+{
+  "node": {
+    "af6e842b4bcada737bc7f7f36a09dc4b45737592": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "c3b752f9f5493c77837fc6fc6f27f9dcc877d04c": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "cc9fbb8fc442bd8d7a2e85eb3567e3b230e28ad7": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "e964673019bd8a87c96ab67fb5d6ba9c0bfc6ba2": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "011c5b511540d0479e17fb43f959ce8011adb91c": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "6dec8d0c958834ea0aea7c1ded1d03f256454382": {
+      "workers": {
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/page": "action-browser",
+        "app/profile/page": "rsc",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "0378ffd6b410623f2f1ace565df1a1763bea5365": {
+      "workers": {
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/profile/page": "rsc",
+        "app/page": "action-browser",
+        "app/login/page": "action-browser"
+      }
+    },
+    "d0bdcd9b0bf112feada9231ee5a384d71b16debc": {
+      "workers": {
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/profile/page": "rsc",
+        "app/page": "action-browser",
+        "app/login/page": "action-browser",
+        "app/profile/settings/page": "action-browser"
+      }
+    },
+    "74a21f66a597a57ff40e937fba480f751dc90b33": {
+      "workers": {
+        "app/profile/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=!",
+        "app/login/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!",
+        "app/profile/settings/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Flilithakobyan%2FDesktop%2FJS%2FFrontEnd%2F2%20Module%2F6Next-Auth-Basics%2Fsrc%2Fapp%2Flib%2Factions.ts%22%2C%5B%22handleLogOut%22%2C%22%24%24ACTION_2%22%2C%22handleChange%22%2C%22handleLogin%22%2C%22%24%24ACTION_0%22%2C%22handleSignup%22%2C%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/profile/page": "rsc",
+        "app/login/page": "action-browser",
+        "app/page": "action-browser",
+        "app/profile/settings/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "doh4Wa8D49dMoGK3zQe0q9c39hZZAKTWtIapZmYRHx4="
+}
